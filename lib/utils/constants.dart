@@ -26,7 +26,7 @@ final List<Module> featuredModules = [
     progress: '60%',
     image: 'assets/maths.png',
     videoUrl:
-        'https://cdn.pixabay.com/video/2021/09/15/88751-606111298_small.mp4?download',
+        'https://github.com/migavel508/educational_videos/raw/refs/heads/main/maths1.mp4',
   ),
   Module(
     title: 'Physics Fundamentals',
