@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "29224761808",
+    "project_id": "edugen-ad771",
+    "storage_bucket": "edugen-ad771.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29224761808:android:b6572d2c4459cefa80e1d5",
+        "android_client_info": {
+          "package_name": "com.company.com.edugen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_ncnbSB-1beuVxrWKvnG5AnG3gvVZo70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29224761808:android:cc1fffd49b96b5ff80e1d5",
+        "android_client_info": {
+          "package_name": "com.example.astrolearn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_ncnbSB-1beuVxrWKvnG5AnG3gvVZo70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
